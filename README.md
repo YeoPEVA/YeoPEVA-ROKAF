@@ -1,2 +1,4 @@
-# YeoPEVA_ROKAF
+# YeoPEVA-ROKAF
 2021.04.12 ~ 2023.1.09
+
+(상세 목표 및 내용 추가 예정)
