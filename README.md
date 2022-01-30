@@ -1,6 +1,8 @@
 # YeoPEVA-ROKAF
 2021.04.12 ~ 2023.1.11
 
+https://yeopeva.github.io/life/life1/
+
 # 군 목표 리스트
 
 ## 개발 관련
